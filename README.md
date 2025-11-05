@@ -1,5 +1,5 @@
 <!-- Banner o presentación -->
-<h1 align="center">👋 ¡Hola! Soy Agustín Rodríguez</h1>
+<h1 align="center">👋 ¡Hola! Soy Agustín Berois</h1>
 
 <p align="center">
 💻 <b>Fullstack Developer</b> | ⚙️ <b>Node.js + React</b> | 🌍 Desde Uruguay
@@ -33,33 +33,25 @@ Además, me interesa todo lo relacionado con la **nutrición**, el **fitness** y
 ### 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustinrodriguez&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agustinberois&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustinrodriguez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustinberois&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🧩 Proyectos destacados
-
-🔹 [**Nutritrackers**](https://github.com/tuusuario/nutritrackers) — Plataforma web para nutricionistas que permite trackear la evolución de sus clientes.  
-🔹 [**Tu Casaca MVD**](https://github.com/tuusuario/tucasacamvd) — Tienda virtual de camisetas deportivas personalizada.  
-🔹 [**Portfolio personal**](https://github.com/tuusuario/portfolio) — Mi sitio personal hecho con React y Tailwind.
 
 ---
 
 ### 🤝 Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/agustinrodriguez" target="_blank">
+  <a href="[https://www.linkedin.com/in/agustinrodriguez](https://www.linkedin.com/in/agustin-rodriguez-berois/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:agustin@example.com">
+  <a href="mailto:contacto@agustinberois.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/tu_usuario" target="_blank">
+  <a href="https://instagram.com/agustinberois" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
