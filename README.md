@@ -11,7 +11,7 @@
 
 Soy un desarrollador apasionado por crear aplicaciones modernas, rápidas y bien estructuradas.  
 Me gusta combinar **arquitecturas sólidas**, **buenas prácticas** y una **mentalidad de mejora continua**.  
-Además, me interesa todo lo relacionado con la **nutrición**, el **fitness** y el **bienestar integral** 🏋️‍♂️🥦
+
 
 ---
 
@@ -45,7 +45,7 @@ Además, me interesa todo lo relacionado con la **nutrición**, el **fitness** y
 ### 🤝 Conectemos
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/agustinrodriguez](https://www.linkedin.com/in/agustin-rodriguez-berois/)" target="_blank">
+  <a href="https://www.linkedin.com/in/agustin-rodriguez-berois/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:contacto@agustinberois.com">
